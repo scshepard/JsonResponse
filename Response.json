@@ -1,0 +1,11 @@
+{"sql":"\n\t\t\t\tSELECT CityName, CityID\n\t\t\t\tFROM City\n\t\t\t\tWHERE CountyID = '11'\n\t\t\t\tORDER BY CityName\n\t\t\t","count":17,"error":0,
+"resultSet":[{"0":"Arboga","CityName":"Arboga","1":"1464","CityID":"1464"},{"0":"Beale AFB","CityName":"Beale AFB","1":"36","CityID":"36"},
+{"0":"Browns Valley","CityName":"Browns Valley","1":"37","CityID":"37"},{"0":"Brownsville","CityName":"Brownsville","1":"38","CityID":"38"},
+{"0":"Camptonville","CityName":"Camptonville","1":"39","CityID":"39"},{"0":"Challenge","CityName":"Challenge","1":"40","CityID":"40"},
+{"0":"Dobbins","CityName":"Dobbins","1":"41","CityID":"41"},{"0":"La Porte","CityName":"La Porte","1":"1465","CityID":"1465"},
+{"0":"Linda","CityName":"Linda","1":"1466","CityID":"1466"},{"0":"Loma Rica","CityName":"Loma Rica","1":"1467","CityID":"1467"},
+{"0":"Marysville","CityName":"Marysville","1":"13","CityID":"13"},{"0":"Olivehurst","CityName":"Olivehurst","1":"42","CityID":"42"},
+{"0":"Oregon House","CityName":"Oregon House","1":"43","CityID":"43"},{"0":"Plumas Lake","CityName":"Plumas Lake","1":"1468","CityID":"1468"},
+{"0":"Rackerby","CityName":"Rackerby","1":"44","CityID":"44"},{"0":"Strawberry Valley","CityName":"Strawberry Valley","1":"45","CityID":"45"},
+{"0":"Wheatland ","CityName":"Wheatland ","1":"46","CityID":"46"}],"origin":"\/Production\/City\/queryDatabaseJson.php",
+"server":"www.locoolly.com","database":"mjlj1234","stateabbreviation":"CA","statename":"California","countyname":"Yuba"}
